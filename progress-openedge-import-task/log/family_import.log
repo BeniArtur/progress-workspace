@@ -1,0 +1,173 @@
+10-29-2025T08:41:51.150 [INFO] ========================================
+10-29-2025T08:41:51.196 [INFO] Family Import Process Started
+10-29-2025T08:41:54.081 [INFO] Input File: families.csv
+10-29-2025T08:41:54.634 [INFO] ========================================
+10-29-2025T08:41:55.113 [FATAL] Failed to read CSV file: ** "families.csv" was not found. (293)
+10-29-2025T08:45:17.223 [INFO] ========================================
+10-29-2025T08:45:17.264 [INFO] Family Import Process Started
+10-29-2025T08:45:20.048 [INFO] Input File: families.csv
+10-29-2025T08:45:20.553 [INFO] ========================================
+10-29-2025T08:45:20.806 [FATAL] Failed to read CSV file: ** "families.csv" was not found. (293)
+10-29-2025T08:50:42.116 [INFO] ========================================
+10-29-2025T08:50:42.153 [INFO] Family Import Process Started
+10-29-2025T08:50:44.814 [INFO] Input File: C:\Users\Ben2\Progress\Developer Studio 12.8\workspace\progress-openedge-import-task\task1\families.csv
+10-29-2025T08:50:45.169 [INFO] ========================================
+10-29-2025T08:50:45.394 [INFO] CSV file loaded successfully. Lines: 2
+10-29-2025T08:50:45.577 [TRACE] Line 1: Skipping Employee record
+10-29-2025T08:50:45.730 [INFO] Completed Employee 54 - 0 records
+10-29-2025T08:52:01.885 [INFO] ========================================
+10-29-2025T08:52:01.927 [INFO] Family Import Process Started
+10-29-2025T08:52:04.257 [INFO] Input File: families.csv
+10-29-2025T08:52:05.765 [INFO] ========================================
+10-29-2025T08:52:06.116 [FATAL] Failed to read CSV file: ** "families.csv" was not found. (293)
+10-29-2025T08:53:03.339 [INFO] ========================================
+10-29-2025T08:53:03.380 [INFO] Family Import Process Started
+10-29-2025T08:53:06.130 [INFO] Input File: C:\Users\Ben2\Progress\Developer Studio 12.8\workspace\progress-openedge-import-task\task1\families.csv
+10-29-2025T08:53:06.534 [INFO] ========================================
+10-29-2025T08:53:06.809 [INFO] CSV file loaded successfully. Lines: 1
+10-29-2025T08:53:07.002 [TRACE] Line 1: Skipping Employee record
+10-29-2025T08:53:07.206 [INFO] Completed Employee 54 - 0 records
+10-29-2025T08:53:07.425 [INFO] CSV Employees: 1
+10-29-2025T08:53:07.628 [INFO] CSV Family Members: 0
+10-29-2025T08:53:23.481 [INFO] ========================================
+10-29-2025T08:53:23.537 [INFO] Family Import Process Started
+10-29-2025T08:58:22.689 [INFO] ========================================
+10-29-2025T08:58:22.732 [INFO] Family Import Process Started
+10-29-2025T08:58:28.086 [INFO] Input File: C:\Users\Ben2\Progress\Developer Studio 12.8\workspace\progress-openedge-import-task\task1\families.csv
+10-29-2025T08:58:28.434 [INFO] ========================================
+10-29-2025T08:58:28.621 [INFO] CSV file loaded successfully. Lines: 61
+10-29-2025T08:58:28.781 [TRACE] Line 49: Skipping Employee record
+10-29-2025T08:58:28.938 [INFO] Line 50: Created Family for Emp 1, Rel: Koberlein
+10-29-2025T08:59:23.663 [INFO] Input File: C:\Users\Ben2\Progress\Developer Studio 12.8\workspace\progress-openedge-import-task\task1\families.csv
+10-29-2025T08:59:24.027 [INFO] ========================================
+10-29-2025T08:59:24.244 [INFO] CSV file loaded successfully. Lines: 1
+10-29-2025T08:59:24.482 [TRACE] Line 1: Skipping Employee record
+10-29-2025T08:59:24.692 [INFO] Completed Employee 54 - 0 records
+10-29-2025T08:59:24.895 [INFO] CSV Employees: 1
+10-29-2025T08:59:25.391 [INFO] CSV Family Members: 0
+10-29-2025T08:59:25.422 [INFO] DB Employees: 55
+10-29-2025T08:59:25.454 [INFO] DB Family Members: 73
+10-29-2025T08:59:25.485 [INFO] Consistency check passed
+10-29-2025T08:59:25.516 [INFO] ========================================
+10-29-2025T08:59:25.549 [INFO] Import Process Completed
+10-29-2025T08:59:25.578 [INFO] Total Lines Processed: 0
+10-29-2025T08:59:25.606 [INFO] Records Created: 0
+10-29-2025T08:59:25.633 [INFO] Records Updated: 0
+10-29-2025T08:59:25.664 [INFO] Errors: 0
+10-29-2025T08:59:25.697 [INFO] ========================================
+10-29-2025T08:59:30.909 [INFO] DB Employees: 55
+10-29-2025T08:59:31.404 [INFO] DB Family Members: 72
+10-29-2025T08:59:31.435 [INFO] Consistency check passed
+10-29-2025T08:59:31.465 [INFO] ========================================
+10-29-2025T08:59:31.497 [INFO] Import Process Completed
+10-29-2025T08:59:31.529 [INFO] Total Lines Processed: 0
+10-29-2025T08:59:31.559 [INFO] Records Created: 0
+10-29-2025T08:59:31.589 [INFO] Records Updated: 0
+10-29-2025T08:59:31.619 [INFO] Errors: 0
+10-29-2025T08:59:31.646 [INFO] ========================================
+10-29-2025T08:59:35.993 [INFO] Line 51: Updated Family for Emp 1, Rel: Koberlein
+10-29-2025T08:59:36.488 [INFO] Completed Employee 1 - 0 records
+10-29-2025T08:59:36.521 [TRACE] Line 35: Skipping Employee record
+10-29-2025T08:59:36.551 [INFO] Line 36: Created Family for Emp 2, Rel: Andrews
+10-29-2025T08:59:36.584 [INFO] Line 37: Updated Family for Emp 2, Rel: Andrews
+10-29-2025T08:59:36.612 [INFO] Completed Employee 2 - 0 records
+10-29-2025T08:59:36.640 [TRACE] Line 26: Skipping Employee record
+10-29-2025T08:59:36.669 [INFO] Line 27: Created Family for Emp 4, Rel: Shaw
+10-29-2025T08:59:36.699 [INFO] Line 28: Updated Family for Emp 4, Rel: Shaw
+10-29-2025T08:59:36.730 [INFO] Line 29: Updated Family for Emp 4, Rel: Shaw
+10-29-2025T08:59:36.761 [INFO] Completed Employee 4 - 0 records
+10-29-2025T08:59:36.790 [TRACE] Line 59: Skipping Employee record
+10-29-2025T08:59:36.821 [INFO] Line 60: Created Family for Emp 6, Rel: Petersen
+10-29-2025T08:59:36.856 [INFO] Line 61: Updated Family for Emp 6, Rel: Petersen
+10-29-2025T08:59:36.887 [INFO] Completed Employee 6 - 0 records
+10-29-2025T08:59:36.919 [TRACE] Line 55: Skipping Employee record
+10-29-2025T08:59:36.952 [INFO] Line 56: Created Family for Emp 7, Rel: Weiss
+10-29-2025T08:59:36.981 [INFO] Completed Employee 7 - 0 records
+10-29-2025T08:59:37.114 [TRACE] Line 52: Skipping Employee record
+10-29-2025T08:59:37.595 [INFO] Line 53: Created Family for Emp 9, Rel: Wilson
+10-29-2025T08:59:37.641 [INFO] Line 54: Updated Family for Emp 9, Rel: Wilson
+10-29-2025T08:59:37.695 [INFO] Completed Employee 9 - 0 records
+10-29-2025T08:59:37.732 [TRACE] Line 57: Skipping Employee record
+10-29-2025T08:59:37.762 [INFO] Line 58: Created Family for Emp 11, Rel: Garsen
+10-29-2025T08:59:37.791 [INFO] Completed Employee 11 - 0 records
+10-29-2025T08:59:37.824 [TRACE] Line 46: Skipping Employee record
+10-29-2025T08:59:37.856 [INFO] Line 47: Created Family for Emp 13, Rel: Sanders
+10-29-2025T08:59:37.887 [INFO] Line 48: Updated Family for Emp 13, Rel: Sanders
+10-29-2025T08:59:37.918 [INFO] Completed Employee 13 - 0 records
+10-29-2025T08:59:37.951 [TRACE] Line 6: Skipping Employee record
+10-29-2025T08:59:37.981 [INFO] Line 7: Created Family for Emp 16, Rel: Atkins
+10-29-2025T08:59:38.014 [INFO] Completed Employee 16 - 0 records
+10-29-2025T08:59:38.047 [TRACE] Line 43: Skipping Employee record
+10-29-2025T08:59:38.107 [INFO] Line 44: Created Family for Emp 18, Rel: Brady
+10-29-2025T08:59:38.167 [INFO] Line 45: Updated Family for Emp 18, Rel: Brady
+10-29-2025T08:59:38.202 [INFO] Completed Employee 18 - 0 records
+10-29-2025T08:59:38.250 [TRACE] Line 41: Skipping Employee record
+10-29-2025T08:59:38.280 [INFO] Line 42: Created Family for Emp 19, Rel: Dawsen
+10-29-2025T08:59:38.309 [INFO] Completed Employee 19 - 0 records
+10-29-2025T08:59:38.341 [TRACE] Line 38: Skipping Employee record
+10-29-2025T08:59:38.372 [INFO] Line 39: Created Family for Emp 22, Rel: Green
+10-29-2025T08:59:38.403 [INFO] Line 40: Updated Family for Emp 22, Rel: Green
+10-29-2025T08:59:38.431 [INFO] Completed Employee 22 - 0 records
+10-29-2025T08:59:38.462 [TRACE] Line 30: Skipping Employee record
+10-29-2025T08:59:38.495 [INFO] Line 31: Created Family for Emp 25, Rel: Davis
+10-29-2025T08:59:38.526 [INFO] Line 32: Updated Family for Emp 25, Rel: Davis
+10-29-2025T08:59:38.578 [INFO] Completed Employee 25 - 0 records
+10-29-2025T08:59:38.641 [TRACE] Line 8: Skipping Employee record
+10-29-2025T08:59:38.782 [INFO] Line 9: Created Family for Emp 28, Rel: Parker
+10-29-2025T08:59:39.288 [INFO] Completed Employee 28 - 0 records
+10-29-2025T08:59:39.319 [TRACE] Line 15: Skipping Employee record
+10-29-2025T08:59:39.346 [INFO] Line 16: Created Family for Emp 39, Rel: Valentino
+10-29-2025T08:59:39.381 [INFO] Completed Employee 39 - 0 records
+10-29-2025T08:59:39.411 [TRACE] Line 3: Skipping Employee record
+10-29-2025T08:59:39.443 [INFO] Line 4: Created Family for Emp 44, Rel: Young
+10-29-2025T08:59:39.476 [INFO] Line 5: Updated Family for Emp 44, Rel: Young
+10-29-2025T08:59:39.509 [INFO] Completed Employee 44 - 0 records
+10-29-2025T08:59:39.538 [TRACE] Line 17: Skipping Employee record
+10-29-2025T08:59:39.581 [INFO] Line 18: Created Family for Emp 46, Rel: Abbott
+10-29-2025T08:59:39.647 [INFO] Line 19: Updated Family for Emp 46, Rel: Abbott
+10-29-2025T08:59:39.694 [INFO] Completed Employee 46 - 0 records
+10-29-2025T08:59:39.743 [TRACE] Line 10: Skipping Employee record
+10-29-2025T08:59:39.773 [INFO] Line 11: Created Family for Emp 47, Rel: Anderson
+10-29-2025T08:59:39.804 [INFO] Completed Employee 47 - 0 records
+10-29-2025T08:59:39.836 [TRACE] Line 33: Skipping Employee record
+10-29-2025T08:59:39.863 [INFO] Line 34: Created Family for Emp 48, Rel: Alden
+10-29-2025T08:59:39.893 [INFO] Completed Employee 48 - 0 records
+10-29-2025T08:59:39.922 [TRACE] Line 23: Skipping Employee record
+10-29-2025T08:59:39.952 [INFO] Line 24: Created Family for Emp 49, Rel: Ahern
+10-29-2025T08:59:39.980 [INFO] Line 25: Updated Family for Emp 49, Rel: Ahern
+10-29-2025T08:59:40.015 [INFO] Completed Employee 49 - 0 records
+10-29-2025T08:59:40.057 [TRACE] Line 20: Skipping Employee record
+10-29-2025T08:59:40.286 [INFO] Line 21: Created Family for Emp 52, Rel: Brown
+10-29-2025T08:59:40.792 [INFO] Line 22: Updated Family for Emp 52, Rel: Brown
+10-29-2025T08:59:40.822 [INFO] Completed Employee 52 - 0 records
+10-29-2025T08:59:40.853 [TRACE] Line 1: Skipping Employee record
+10-29-2025T08:59:40.880 [INFO] Line 2: Created Family for Emp 54, Rel: Kayhill
+10-29-2025T08:59:40.916 [INFO] Completed Employee 54 - 0 records
+10-29-2025T08:59:40.947 [TRACE] Line 12: Skipping Employee record
+10-29-2025T08:59:40.979 [INFO] Line 13: Created Family for Emp 55, Rel: Caine
+10-29-2025T08:59:41.012 [INFO] Line 14: Updated Family for Emp 55, Rel: Caine
+10-29-2025T08:59:41.044 [INFO] Completed Employee 55 - 0 records
+10-29-2025T08:59:41.106 [INFO] CSV Employees: 23
+10-29-2025T08:59:41.155 [INFO] CSV Family Members: 38
+10-29-2025T08:59:41.206 [INFO] DB Employees: 55
+10-29-2025T08:59:41.246 [INFO] DB Family Members: 95
+10-29-2025T08:59:41.278 [INFO] Consistency check passed
+10-29-2025T08:59:41.307 [INFO] ========================================
+10-29-2025T08:59:41.338 [INFO] Import Process Completed
+10-29-2025T08:59:41.368 [INFO] Total Lines Processed: 38
+10-29-2025T08:59:41.395 [INFO] Records Created: 23
+10-29-2025T08:59:41.423 [INFO] Records Updated: 15
+10-29-2025T08:59:41.452 [INFO] Errors: 0
+10-29-2025T08:59:41.481 [INFO] ========================================
+10-29-2025T08:59:44.818 [INFO] CSV Employees: 1
+10-29-2025T08:59:45.309 [INFO] CSV Family Members: 0
+10-29-2025T08:59:45.343 [INFO] DB Employees: 55
+10-29-2025T08:59:45.374 [INFO] DB Family Members: 95
+10-29-2025T08:59:45.403 [INFO] Consistency check passed
+10-29-2025T08:59:45.434 [INFO] ========================================
+10-29-2025T08:59:45.463 [INFO] Import Process Completed
+10-29-2025T08:59:45.496 [INFO] Total Lines Processed: 0
+10-29-2025T08:59:45.528 [INFO] Records Created: 0
+10-29-2025T08:59:45.558 [INFO] Records Updated: 0
+10-29-2025T08:59:45.588 [INFO] Errors: 0
+10-29-2025T08:59:45.617 [INFO] ========================================

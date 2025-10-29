@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module-content version="12.8">
+    <module id="0e399291-7c4d-4560-b778-de7ed2887c35" name="openedge-dev-assignment">
+        <resource path="AppServer" publish="true"/>
+    </module>
+</module-content>
