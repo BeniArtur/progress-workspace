@@ -1,0 +1,15 @@
+# Eclipse / Progress metadata
+.metadata/
+.sharedavm/
+.sonarlint/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Progress temp/build files
+*.log
+*.tmp
+*.cls
+*.o
+*.fl
