@@ -15,10 +15,8 @@
 /*    RETURN.                                                         */
 /*END.                                                                */
 
-/* Define input parameters */
 DEFINE INPUT PARAMETER pcInputFile AS CHARACTER NO-UNDO.
 
-/* Define work variables */
 DEFINE VARIABLE cLine      AS CHARACTER NO-UNDO.
 DEFINE VARIABLE cLogFile   AS CHARACTER NO-UNDO.
 DEFINE VARIABLE iLineNum   AS INTEGER   NO-UNDO.
@@ -30,7 +28,7 @@ DEFINE VARIABLE lSuccess   AS LOGICAL   NO-UNDO.
 DEFINE VARIABLE cErrorMsg  AS CHARACTER NO-UNDO.
 DEFINE VARIABLE iLastEmpNum AS INTEGER  NO-UNDO.
 
-/* Define temp-table for CSV data */
+
 DEFINE TEMP-TABLE ttImportData NO-UNDO
     FIELD LineNum       AS INTEGER
     FIELD EmpNum        AS INTEGER
