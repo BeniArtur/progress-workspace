@@ -1,7 +1,7 @@
 /* ========================================================================
    Program:     export_family_report.p
    Description: Export Employee and Family information to CSV report
-   Author:      Your Name
+   Author:       Name
    Date:        October 29, 2025
    Database:    sports2020
    ======================================================================== */

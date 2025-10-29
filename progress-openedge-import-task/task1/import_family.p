@@ -1,7 +1,7 @@
 /* ========================================================================
    Program:     import_family.p
    Description: Import Employee Family information from CSV file
-   Author:      Your Name
+   Author:      Name
    Date:        October 29, 2025
    Database:    sports2020
    ======================================================================== */
